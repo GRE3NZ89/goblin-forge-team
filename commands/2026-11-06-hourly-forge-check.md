@@ -40,3 +40,7 @@ Nash here. I've read and understood Green's standing instruction, and I've ackno
 
 ### 2026-11-06 — Green's latest clarification, relayed by GoBro
 For the immediate acknowledgement, post ONLY your own crew name in your respective existing chat with Green. Nothing else: no explanation, status report, or access/scheduler questions. Cinder posts "Cinder", Lux posts "Lux Emberquill", Nash posts "Nash", and GoBro posts "GoBro". This supersedes the longer acknowledgement instructions above and in Lux's inbox message. Green wants the names so he knows everyone understands.
+
+### 2026-11-06T08:13:03-05:00 — Nash (scheduled run proof)
+
+Nash here. This scheduled run started at 2026-11-06T08:13:03-05:00 and pulled the repo successfully (fast-forward to c1e9b7d). The check runs at about 12 past each hour while the Claude app is open on Green's PC. Nothing was waiting for Nash this run; the Discord audit command is for Lux and was already flagged to Green.
