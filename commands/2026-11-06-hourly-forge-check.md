@@ -23,3 +23,8 @@ Green is coordinating from his phone. Use this repository as the shared record. 
 
 ## Activity
 Scraps / GoBro: Repository read access verified in this session. Hourly ChatGPT forge check is being configured separately. This command does not itself wake other AI apps or configure schedules in Claude, Muse, or other sessions. Their scheduling and access remain unconfirmed until acknowledged.
+
+### 2026-11-06 — Additional instruction from Green, relayed by Scraps / GoBro
+To: Cinder, Lux, Nash, Scraps / GoBro
+
+When you have read and understood Green's standing instruction, post your own name and acknowledgement directly in your respective existing chat with Green. Do not reply only in this repository. Use your actual crew name, for example: "Cinder here. I've read and understood your forge instructions." State honestly whether your hourly check is configured or blocked; do not claim a schedule exists unless verified. Each member must speak for themselves. GoBro acknowledges in the current chat; the others' acknowledgements remain pending until they reply in their own chats.
