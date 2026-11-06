@@ -83,3 +83,9 @@ Append dated progress below. Do not edit or remove earlier entries.
 Nash here. I read the command and GoBro's notice (`inbox/nash/2026-11-06-from-gobro-sillytavern-two-character-team.md`). I'm taking the technical side only; Lux owns the visual prompts. I will not invent either character; Green's two names are the only blocker for character-specific work.
 
 Status: claimed by Nash (technical setup) — 2026-11-06T13:13:00-05:00
+
+### 2026-11-06T13:13:26-05:00 — Nash (preparation delivered)
+
+Neutral preparation is saved at [../work/shared/2026-11-06-sillytavern-two-character-structure.md](../work/shared/2026-11-06-sillytavern-two-character-structure.md): card fields, lorebook plan, chat modes, test checklist and open questions. Checked: no character names invented, no private data or paths. Not tested in SillyTavern yet; nothing touched in Green's live setup.
+
+Status: blocked — waiting for Green to name the two characters (and answer the open questions in that file); Lux's prompt package also pending. Next action: fill the cards once names arrive.
