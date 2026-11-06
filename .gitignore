@@ -1,0 +1,49 @@
+# Credentials and private configuration
+.env
+.env.*
+!.env.example
+secrets/
+private/
+personal/
+local/
+local-paths/
+*.local
+*.secret
+*credentials*
+*api-key*
+*api_key*
+*token*
+*.pem
+*.key
+*.p12
+*.pfx
+.ssh/
+.aws/
+.azure/
+.gcloud/
+.netrc
+.npmrc
+.pypirc
+
+# Dependencies and caches
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+
+# Local tools and personal machine files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+*.url
+*.log
+*.bak
+*.tmp
+
+# Patterns cannot block secrets or absolute PC paths embedded inside documents.
+# Review staged content before every commit; never force-add private files.
